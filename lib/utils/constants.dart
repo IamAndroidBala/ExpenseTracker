@@ -1,0 +1,9 @@
+final String USER_NAME = 'user_name';
+final String PHONE = 'phone';
+final String EMAIL = 'email';
+final String ADD_CATEGORY = 'Add / View Category';
+final String ADD_MODE = 'Add / View Cash Mode';
+final String SET_BUDGET = 'budget';
+final String USER_IMAGE = 'image';
+final String APP_INITIALISED = 'is_setup_done';
+final String IS_DB_INITIALISED = 'is_db_created';
